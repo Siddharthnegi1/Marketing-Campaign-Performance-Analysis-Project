@@ -1,4 +1,4 @@
-#Nykaa Marketing Campaign Performance Report
+# Nykaa Marketing Campaign Performance Report
 
 1. Introduction
 This project analyse the performance of digital marketing campaigns conducted by Nykaa using a simulated dataset sourced from Kaggle. The goal is to evaluate campaign effectiveness across different channels, audience segments, and time periods, and to derive actionable business insights.
