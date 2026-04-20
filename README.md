@@ -125,7 +125,7 @@ Cost efficiency plays a critical role in maximizing returns. High-cost campaigns
 13. Conclusion
 Nykaa’s marketing strategy is overall effective, generating strong revenue and maintaining a positive ROI. However, there is significant scope for improvement through cost optimization, better targeting, and enhancing underperforming channels. By leveraging these insights, the company can further maximize marketing efficiency and profitability.
 
-14. Screenshot
+14. Dashboard Screenshot
 ![image alt]( https://github.com/Siddharthnegi1/Marketing-Campaign-Performance-Analysis-Project/blob/main/Dashboard.png)
 
 
