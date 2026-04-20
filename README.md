@@ -1,4 +1,3 @@
-
 #Nykaa Marketing Campaign Performance Report
 
 1. Introduction
